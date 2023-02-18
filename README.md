@@ -3,7 +3,7 @@ Bài tập lớn môn Kỹ thuật lập trình
 
 Subject: Hotel Management System
 
-Contributor:
+Contributors:
 Lê Đức Anh,
 Lương Ngọc Phương,
 Huỳnh Quang Đức,
