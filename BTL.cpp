@@ -42,6 +42,9 @@ int main()
             h.getM_rooms()[9]->getIsReserved(), h.getM_rooms()[9]->getPricePerNight(), 8, true, true, true);
 
     // Menu
+    cout << "****************************************************" << endl;
+    cout << "*            HOTEL MANAGEMENT SYSTEM           *" << endl;
+    cout << "****************************************************" << endl << endl;
     displayMenu();
 
     // Choose
